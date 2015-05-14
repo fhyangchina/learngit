@@ -7,3 +7,4 @@ hello
 Hello
 HELLO
 new function
+test
